@@ -1,4 +1,4 @@
-**Ecommerce Sales Dashboard using PowerBI**
+**Madhav Sales Dashboard using PowerBI**
 
 **Objectives:**
 
